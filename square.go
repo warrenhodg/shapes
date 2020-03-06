@@ -1,4 +1,4 @@
-package shape
+package shapes
 
 type Square struct {
   side float64
